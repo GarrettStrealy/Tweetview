@@ -1,8 +1,6 @@
-# Project 3 - *Tweetview*
+# *Tweetview*
 
 Tweetview is a basic twitter app to read your tweets.
-
-Time spent: **3** hours spent in total
 
 ## User Stories
 
