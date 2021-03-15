@@ -1,8 +1,8 @@
 # *Tweetview*
 
-# Tweetview - Part II
-
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
+
+# Tweetview - Part II
 
 ## User Stories
 
