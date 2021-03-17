@@ -170,9 +170,15 @@
                                     <constraint firstAttribute="height" constant="128" id="vch-qT-789"/>
                                 </constraints>
                                 <color key="textColor" systemColor="labelColor"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wI2-Ef-RZZ">
+                                <rect key="frame" x="375" y="182" width="0.0" height="0.0"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="s5E-OI-ATl"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -180,6 +186,8 @@
                             <constraint firstItem="7Gk-6x-cPu" firstAttribute="leading" secondItem="s5E-OI-ATl" secondAttribute="leading" id="6k2-NY-Gdx"/>
                             <constraint firstItem="7Gk-6x-cPu" firstAttribute="top" secondItem="s5E-OI-ATl" secondAttribute="top" id="9TD-8M-hjW"/>
                             <constraint firstItem="s5E-OI-ATl" firstAttribute="trailing" secondItem="7Gk-6x-cPu" secondAttribute="trailing" id="Dzu-89-Pnb"/>
+                            <constraint firstItem="wI2-Ef-RZZ" firstAttribute="top" secondItem="7Gk-6x-cPu" secondAttribute="bottom" constant="10" id="T4l-BF-14j"/>
+                            <constraint firstItem="s5E-OI-ATl" firstAttribute="trailing" secondItem="wI2-Ef-RZZ" secondAttribute="trailing" id="Zfx-X5-Gtn"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="lrM-Ka-miI">
@@ -197,12 +205,13 @@
                         </barButtonItem>
                     </navigationItem>
                     <connections>
+                        <outlet property="characterCounterLabel" destination="wI2-Ef-RZZ" id="E8E-MY-PvW"/>
                         <outlet property="tweetTextView" destination="7Gk-6x-cPu" id="A1K-e8-CJK"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Urk-J1-fPj" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3042" y="125"/>
+            <point key="canvasLocation" x="3040.8000000000002" y="124.58770614692655"/>
         </scene>
         <!--Home Navigation Controller-->
         <scene sceneID="sNH-zC-Zdw">
