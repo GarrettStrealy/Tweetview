@@ -24,7 +24,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media4.giphy.com/media/81Tiu4bV6ysg7XvSe6/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-## Bonus Stories
+# Bonus Stories
 
 <img src='https://media3.giphy.com/media/xkTPCK03npxJyDudMP/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -46,6 +46,7 @@ The following functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://media1.giphy.com/media/pOPeelJ68y4PDQElUu/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-User stays logged in across restarts.
+
+# User stays logged in across restarts.
 <img src='https://media1.giphy.com/media/2ovw7b7rvPeLCOLZ9C/giphy.gif' title='Video Walkthrough2' width='' alt='Video Walkthrough2' />
 
