@@ -1,6 +1,6 @@
 # *Tweetview*
 
-This is a basic twitter app to view, compose, favorite, and retweet tweets.
+This is a basic twitter app to view, compose, favorite, and retweet tweets. It demonstrates my abilities in iOS application development using XCode.
 
 # Tweetview - Push II
 
