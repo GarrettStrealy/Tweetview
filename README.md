@@ -19,8 +19,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://media4.giphy.com/media/81Tiu4bV6ysg7XvSe6/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img src='https://media3.giphy.com/media/xkTPCK03npxJyDudMP/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 # Tweetview - Push I
 
 ## User Stories
