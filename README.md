@@ -1,6 +1,6 @@
 # *Tweetview*
 
-Users can view, compose, favorite, and retweet tweets. Connected to the Twitter API. It demonstrates my abilities in iOS application development using XCode.
+Users can view, compose, favorite, and retweet tweets. Connected to the Twitter API. This project demonstrates my abilities in iOS application development.
 
 # Tweetview - Push II
 
