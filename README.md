@@ -9,7 +9,7 @@ Users can view, compose, favorite, and retweet tweets. Connected to the Twitter 
 - [x] User can compose a tweet. 
 - [x] User can favorite a tweet.
 - [x] User can retweet a tweet.
-- [x] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280) (2pts)
+- [x] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280)
 - [ ] User can view their profile in a profile tab. 
 - [ ] User sees embedded images in tweet if available.
 
